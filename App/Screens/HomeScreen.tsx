@@ -6,7 +6,7 @@ const HomeScreen = () => {
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
         <Text style={styles.title}>Welcome to AdeeKas
-            (The Shirts Expert)</Text>
+            (The Shirts Experts)</Text>
       
       </View>
     </SafeAreaView>
